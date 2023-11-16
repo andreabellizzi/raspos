@@ -1,0 +1,6 @@
+Execution state:
+
+EL0 Normal user applications.
+EL1 Operating system kernel typically described as privileged.
+EL2 Hypervisor.
+EL3 Low-level firmware, including the Secure Monitor
